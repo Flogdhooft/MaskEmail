@@ -1,7 +1,8 @@
 Hello, nouveau petit projet en me basant d'un exercice proposé par FreeCodeCamp dans le cursus du JavaScript Certification.
 Je vous laisse découvrir l'intitulé :
 
-##Build an Email Masker ✉️
+## Build an Email Masker ✉️
+
 In this lab, you will mask the username part of an email address with asterisks. Masking is a term used to hide or replace sensitive information with asterisks or other characters.
 
 For example, if the email address was myEmail@email.com, then the masked email address will be m*****l@email.com.
