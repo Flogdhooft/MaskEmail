@@ -1,4 +1,5 @@
-Hello, nouveau petit projet en me basant d'un exercice proposé par FreeCodeCamp dans le cursus du JavaScript Certification.
+Hello! Nouveau petit projet en me basant d'un exercice proposé par FreeCodeCamp dans le cursus du JavaScript Certification.
+
 Je vous laisse découvrir l'intitulé :
 
 ## Build an Email Masker ✉️
